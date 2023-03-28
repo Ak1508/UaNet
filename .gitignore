@@ -6,5 +6,5 @@ results/*
 *.o
 *.ipynb
 .DS_Store
-Data/*
+data/*
 *.*~
